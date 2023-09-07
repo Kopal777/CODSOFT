@@ -1,0 +1,203 @@
+.main{
+    /* margin: -8px; */
+    margin-top: -19px;
+    background-image: url("https://wallpaperaccess.com/full/5112865.jpg");
+    background-attachment: fixed;
+    background-position: right;
+}
+.header {
+    text-align: end;
+    margin: 20px;
+}
+.raise1:hover {
+    top: -10px;
+}
+.raise1 {
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
+}
+.nav {
+    height: 70px;
+    position: relative;
+    display: flex;
+    justify-content: end;
+}
+.nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 20px;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+    margin-left: 225px;
+    margin-top: 75px;
+    margin-bottom: 105px;
+}
+.desc{
+    width: 400px;
+}
+.about img{
+    margin-left: 70px;
+    width: 445px;
+    height: 370px;
+    border-radius: 6% 58% 63% 95%;
+}
+.desc i{
+    margin: 20px;
+    cursor: pointer;
+    color: rgb(67, 64, 64);
+}
+.button button{
+    position: relative;
+    left: 8px;
+    width: 90px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgb(154, 184, 253);
+}
+.button button:hover{
+    background-color: rgb(227, 133, 250);
+}
+.fab fa-github fa-2x:hover{
+    top: -10px;
+}
+.fab fa-github fa-2x {
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
+}
+.more{
+    display: flex;
+    justify-content: end;
+    margin-right: 110px;
+}
+.image2 img{
+    border-radius: 50px;
+    width: 400px;
+    height: 300px;
+    margin-right: 30px;
+}
+.desc2 {
+    margin-left: 40px;
+    width: 420px;
+}
+.desc2 h1{
+    margin-bottom: 35px;
+}
+.desc2 p{
+    margin-top: 30px;
+}
+.end{
+    background-color: rgb(44, 41, 41);
+    height: 160px;
+    width: 650px;
+    margin-top: 180px;
+    margin-left: 400px;
+    color: antiquewhite;
+    border-radius: 9px 9px 0px 0px;
+    text-align: center;
+}
+.end h3{
+    position: relative;
+    top: 20px;
+}
+.end p{
+
+}
+.card{
+    margin: 40px 250px 40px 250px;
+}
+.skills h1{
+    /* margin-top: 21px; */
+    position: relative;
+    top: 40px;
+    text-align: center;
+}
+.skillsf{
+    margin-top: 80px;
+    text-align: center;
+    height: 150px;
+    background-color: antiquewhite;
+    width: 650px;
+    position: relative;
+    left: 380px;
+    border-radius: 10px
+}
+.skillsf p{
+    position: relative;
+    top: 30px;
+}
+.skillsl h2{
+    text-align: center;
+    height: 100px;
+}
+.contact{
+    margin: 20px;
+    height: 637px;
+}
+.contact h1{
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+.contactf{
+    background-color: antiquewhite;
+    width: 460px;
+    height: 200px;
+    border-radius: 20px;
+    text-align: center;   
+    position: relative;
+    top: 95px;
+    left: 460px;
+}
+.contactf{
+    padding: 30px;
+}
+.project h1{
+    padding: 40px;
+    text-align: center;
+}
+.pcontent{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card2{
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 20px;
+    width: 350px;
+    height: 300px;
+    color: antiquewhite;
+    background-image: linear-gradient(rgb(3, 64, 73), rgb(136, 217, 237));
+    margin: 30px;
+}
+.card2 button{
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 95px;
+    margin-top: 25px;
+}
+.raise{
+    transition: 0.4s;
+}
+.raise:hover {
+    transform: translate(0, -5px);
+    background-color: rgb(2, 84, 84);
+    color: aliceblue;
+  }
+.project{
+    background-image: url("https://wallpaperaccess.com/full/5112865.jpg");
+    background-attachment: fixed;
+    background-position: right;
+}
+
+
+
+

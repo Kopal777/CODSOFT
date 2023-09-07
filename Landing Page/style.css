@@ -1,0 +1,162 @@
+.main{
+    background-color: antiquewhite;
+}
+.body {
+    max-width: 100%;
+    height: 350px;
+    background-color: #fcbe72;
+    border-bottom-right-radius: 300px;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+}
+.navbar a {
+    color: black;
+    text-decoration: none;
+    margin: 10px;
+}
+.credentials{
+    margin-left: 150px;
+    display: flex;
+}
+.credentials button{
+    border-radius: 20px;
+    width: 100px;
+    margin: 4px;
+    cursor: pointer;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    width: 40%;
+    height: 40%;
+    border-radius: 10px 100px / 120;
+}
+
+.image {
+    width: 40%;
+    height: 40%;
+}
+
+.image img {
+    margin-left: 30px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100px;
+}
+.content h1{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    margin-top: 60px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+}
+.places{
+    margin:50px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+.places img{
+    width: 150px;
+    border-radius: 100px;
+}
+.card button{
+    width: 130px;
+    height: 30px;
+    border-radius: 100px;
+    cursor: pointer;
+    background-color: #fcbe72;
+}
+.button:hover{
+    background-color: orangered;
+    color: antiquewhite;
+}
+.end h1{
+    text-align: center;
+}
+.feedcon img{
+    width: 75px;
+    height: 75px;
+    border-radius: 100px;
+    margin-left: 10px;
+}
+.feedcon h3{
+    margin-left: 10px;
+}
+.feedcon a{
+    margin-left: 10px;
+}
+.feedcon p{
+    margin-left: 10px;
+}
+.end{
+    position: relative;
+    top: 250px;
+}
+.feed{
+    display: flex;
+    justify-content: center;
+}
+.feedcon{
+    width: 250px;
+    border: 5px solid rgb(241, 234, 234);
+    border-radius: 20px;
+    border-style: double;
+    margin: 20px;
+    color: aliceblue;
+    background-color: rgb(55, 51, 51);
+}
+.firstfooter{
+    border-radius: 435px 435px 140px 140px;
+    background-color: #fcbe72;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.firstfooter h1{
+    height: 125px;
+    margin-top: 50px;
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+.col i{
+    position: relative;
+    margin-left: 10px;
+}
+.col a{
+   font-size: 23px;
+   margin-left: 10px;
+}
+.col p{
+    margin-left: 10px;
+}
+.col{
+    width: 300px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid rgb(241, 234, 234);
+    border-radius: 20px;
+    border-style: double;
+}
+.col button{
+width: 100px;
+height: 28px;
+border-radius: 100px;
+cursor: pointer;
+margin-left: 10px;
+
+}
